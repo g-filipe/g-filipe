@@ -12,7 +12,7 @@ Sou advogado, atualmente em transição de carreira.
  
 <div style="display: inline_block"><br>
 
-  <img align="center" alt="Lipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-  original.svg">
+  <img align="center" alt="Lipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
   <img align="center" alt="Lipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
@@ -27,12 +27,10 @@ Sou advogado, atualmente em transição de carreira.
 <div> 
   
   <a href="https://www.linkedin.com/in/filipe-galv%C3%A3o-29879a130" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
   <a href = "mailto:galvao.s.filipe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
+ </div>
  
- ![Snake animation](https://github.com/g-filipe/g-filipe/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+  ![Snake animation](https://github.com/g-filipe/g-filipe/blob/output/github-contribution-grid-snake.svg)
 
 
