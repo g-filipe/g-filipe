@@ -1,4 +1,4 @@
-## Olá, Eu sou Filipe Galvão! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Olá, Eu sou Filipe Galvão! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Estudante de Análise e Desenvolvimento de Sistemas. 
 
@@ -16,7 +16,12 @@ Estudante de Análise e Desenvolvimento de Sistemas.
 
  </div>
  
-<div style="display: inline_block"><br>
+   <br>
+
+ <div style="display: inline_block">
+
+  <h2>Stacks and Tools</h2>
+
  
   <img align="center" alt="Lipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
@@ -57,12 +62,14 @@ Estudante de Análise e Desenvolvimento de Sistemas.
 
  </div>
  
-   <br>
- 
-<div> 
   
+<div> 
+ 
+ <h2>Contact Me</h2>
+ 
   <a href="https://www.linkedin.com/in/filipe-galv%C3%A3o-29879a130" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:galvao.s.filipe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+ <a href = "mailto:galvao.s.filipe@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
  </div>
  
