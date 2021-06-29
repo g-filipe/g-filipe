@@ -3,7 +3,7 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas.
 
-<img align="center" alt="tech-backgrond" src="https://github.com/g-filipe/svg/blob/main/bgs/bg2.png?raw=true">
+<img align="center" alt="tech-backgrond" src="https://github.com/g-filipe/svg/blob/main/bgs/bg2.png?raw=true"><br>
 
  <div>
  
@@ -14,7 +14,7 @@ Estudante de Análise e Desenvolvimento de Sistemas.
   </div>
  
 
- <div style="display: inline_block">
+ <div style="display: inline_block"><br>
 
   <h2>Stacks and Tools</h2>
 
@@ -56,7 +56,7 @@ Estudante de Análise e Desenvolvimento de Sistemas.
  
    <img align="center" alt="intelij" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/intellij/intellij-original.svg">
 
- </div>
+ </div><br>
  
  
  <div> 
