@@ -7,7 +7,7 @@
 <div>
   <a href="https://github.com/g-filipe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=g-filipe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-filipe&layout=compact&langs_count=16&theme=dracula"/>
+  <img style="max-width: 30%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-filipe&layout=compact&langs_count=16&theme=dracula"/>
 </div>
  
 
