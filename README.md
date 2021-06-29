@@ -1,4 +1,5 @@
-# Olá, Eu sou Filipe Galvão! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Olá, Eu sou Filipe Galvão! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+
 
 Estudante de Análise e Desenvolvimento de Sistemas. 
 
@@ -16,7 +17,6 @@ Estudante de Análise e Desenvolvimento de Sistemas.
 
  </div>
  
-   <br>
 
  <div style="display: inline_block">
 
@@ -62,18 +62,19 @@ Estudante de Análise e Desenvolvimento de Sistemas.
 
  </div>
  
-  
-<div> 
+ 
+ <div> 
  
  <h2>Contact Me</h2>
  
-  <a href="https://www.linkedin.com/in/filipe-galv%C3%A3o-29879a130" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- <a href = "mailto:galvao.s.filipe@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/filipe-galv%C3%A3o-29879a130/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:galvao.s.filipe@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
   
  </div>
+
  
- ![](https://visitor-badge.laobi.icu/badge?page_id=g-filipe.g-filipe)
+![](https://visitor-badge.laobi.icu/badge?page_id=g-filipe.g-filipe)
 
  ![Snake animation](https://github.com/g-filipe/g-filipe/blob/output/github-contribution-grid-snake.svg)
 
