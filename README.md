@@ -1,13 +1,11 @@
 # Olá, Eu sou Filipe Galvão! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
 
-Estudante de Análise e Desenvolvimento de Sistemas. 
-
-
+Estudante de Análise e Desenvolvimento de Sistemas.
 
 <img align="center" alt="tech-backgrond" src="https://github.com/g-filipe/svg/blob/main/bgs/bg2.png?raw=true">
 
-
+  <br>
 
  <div>
  
@@ -69,13 +67,12 @@ Estudante de Análise e Desenvolvimento de Sistemas.
  
   <a href="https://www.linkedin.com/in/filipe-galv%C3%A3o-29879a130/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:galvao.s.filipe@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <img align="right" src="https://komarev.com/ghpvc/?username=your-github-g-filipe">
   
   
  </div>
 
  
-![](https://visitor-badge.laobi.icu/badge?page_id=g-filipe.g-filipe)
-
- ![Snake animation](https://github.com/g-filipe/g-filipe/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/g-filipe/g-filipe/blob/output/github-contribution-grid-snake.svg)
 
 
