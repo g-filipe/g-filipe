@@ -5,14 +5,11 @@ Estudante de Análise e Desenvolvimento de Sistemas.
 
 <img align="center" alt="tech-backgrond" src="https://github.com/g-filipe/svg/blob/main/bgs/bg2.png?raw=true">
 
-
-
  <div>
  
-  <a href="https://github.com/g-filipe">
+  <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=g-filipe&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-filipe&layout=compact&langs_count=16&theme=react"/>
-
  </div>
  
 
