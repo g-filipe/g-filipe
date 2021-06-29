@@ -2,6 +2,15 @@
 
 :man_technologist: Estudante de Análise e Desenvolvimento de Sistemas. 
 
+<div>
+
+<!--<img align="center" height="200" width="910" src="https://media3.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif?cid=790b761120e3b949cd99f7dd82479605cd2c7c898455e3cb&rid=giphy.gif&ct=g"> -->
+ 
+<img align="center" alt="tech-backgrond" height="200" width="910" src="gifs.com/gif/tech-z6Ky0O">
+ 
+
+ </div>
+
  <div>
  
   <a href="https://github.com/g-filipe">
@@ -41,11 +50,11 @@
 <div>
   <img align="center" alt="vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg">
  
-  <img align="center" alt="sublime" height="40" width="50" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/373410ed3b947c420f3e07d68936677ebe8a8bb7/icons/sublime.svg">
+  <img align="center" alt="sublime" height="30" width="30" src="https://raw.githubusercontent.com/g-filipe/svg/b742f111b908acf5fe9339a53c7c2063a7b7a251/Sublime.svg?token=ATVJTMEYIYKL3O7QV62HEDTA3JJMG">
 
- <img align="center" alt="netbeans" height="30" width="30" src="https://img.utdstc.com/icon/04d/26f/04d26f25572d512a49e76f8f52e2319050162dce0a4e21ee14fc03903342cacc:200">
+ <img align="center" alt="netbeans" height="40" width="40" src="https://raw.githubusercontent.com/g-filipe/svg/b742f111b908acf5fe9339a53c7c2063a7b7a251/NetBeans.svg?token=ATVJTMDWGWV5EXNSKIMEWY3A3JJIA">
  
- <img align="center" alt="eclipse" height="30" width="30" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/eclipse-icon.png">
+ <img align="center" alt="eclipse" height="30" width="30" src="https://raw.githubusercontent.com/g-filipe/svg/b742f111b908acf5fe9339a53c7c2063a7b7a251/Eclipse.svg?token=ATVJTMG3INOAZO373WM3CU3A3JJBQ">
  
    <img align="center" alt="intelij" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/intellij/intellij-original.svg">
 
