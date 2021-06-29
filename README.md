@@ -4,7 +4,7 @@ Estudante de Análise e Desenvolvimento de Sistemas.
 
  <img align="center" alt="tech-backgrond" src="https://github.com/g-filipe/svg/blob/main/bgs/bg2.png?raw=true"> <br>
 
- <div style="display: inline_block">
+ <div>
   <a href="https://github.com/g-filipe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=g-filipe&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-filipe&layout=compact&langs_count=16&theme=react"/>
@@ -24,11 +24,11 @@ Estudante de Análise e Desenvolvimento de Sistemas.
 
   <img align="center" alt="Lipe-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
    
-</div>
 
-  <br>
+
+
  
-<div>
+
   
    <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/git/git-plain.svg">
   
@@ -38,11 +38,11 @@ Estudante de Análise e Desenvolvimento de Sistemas.
   
    <img align="center" alt="springboot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/spring/spring-original.svg">
  
- </div>
+
  
-   <br>
+
  
-<div>
+
   <img align="center" alt="vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg">
  
   <img align="center" alt="sublime" height="30" width="30" src="https://raw.githubusercontent.com/g-filipe/svg/b742f111b908acf5fe9339a53c7c2063a7b7a251/Sublime.svg?token=ATVJTMEYIYKL3O7QV62HEDTA3JJMG">
