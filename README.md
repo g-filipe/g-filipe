@@ -1,15 +1,12 @@
 ## Olá, Eu sou Filipe Galvão! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-:man_technologist: Estudante de Análise e Desenvolvimento de Sistemas. 
+Estudante de Análise e Desenvolvimento de Sistemas. 
 
-<div>
 
-<!--<img align="center" height="200" width="910" src="https://media3.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif?cid=790b761120e3b949cd99f7dd82479605cd2c7c898455e3cb&rid=giphy.gif&ct=g"> -->
- 
-<img align="center" alt="tech-backgrond" height="200" width="910" src="gifs.com/gif/tech-z6Ky0O">
- 
 
- </div>
+<img align="center" alt="tech-backgrond" src="https://github.com/g-filipe/svg/blob/main/bgs/bg2.png?raw=true">
+
+
 
  <div>
  
