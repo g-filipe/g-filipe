@@ -3,6 +3,8 @@
 Estudante de Análise e Desenvolvimento de Sistemas.
 
  <img align="center" alt="tech-backgrond" src="https://github.com/g-filipe/svg/blob/main/bgs/bg2.png?raw=true"> <br>
+ 
+ ##
 
  <div>
   <a href="https://github.com/g-filipe">
