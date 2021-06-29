@@ -1,9 +1,8 @@
 # Olá, Eu sou Filipe Galvão! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
-
 Estudante de Análise e Desenvolvimento de Sistemas.
 
-<img align="center" alt="tech-backgrond" src="https://github.com/g-filipe/svg/blob/main/bgs/bg2.png?raw=true"><br>
+<div> <img align="center" alt="tech-backgrond" src="https://github.com/g-filipe/svg/blob/main/bgs/bg2.png?raw=true"> </div> <br>
 
  <div>
  
