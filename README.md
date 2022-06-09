@@ -1,4 +1,4 @@
-# Olá, Eu sou Filipe Galvão! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+# Olá, Eu sou Filipe Galvão!
 
  Software Engineer Intern (Back End Java).
 
