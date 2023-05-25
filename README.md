@@ -1,6 +1,6 @@
 # Olá, Eu sou Filipe Galvão!
 
- Software Engineer Intern (Back End Java).
+ Software Developer (Backend Java).
 
  <img align="center" alt="tech-backgrond" src="https://github.com/g-filipe/svg/blob/main/bgs/bg2.png?raw=true"> <br>
  
