@@ -1,4 +1,4 @@
-# Hi, I'm Filipe Galvão! 
+<h1>Hi, I'm Filipe Galvão!</h1> 
 
 ## Professional Summary:
 Experienced in Back-End development with Java, Spring Boot, and Front-End with JavaScript, Vtex. Transitioned from the legal field with a strong background in Team
@@ -10,14 +10,14 @@ Advanced skills in public speaking and communication.
 • Bachelor of Laws - Centro Universitário AESO Barros Melo – UNIAESO (Dec/2015)
 
  ## Current Job
-  Software Developer (Backend Java) in Sensedia.
+  Software Developer (Backend Java) in Sensedia.<br><br>
 
- <img align="center" alt="tech-backgrond" src="https://github.com/g-filipe/svg/blob/main/bgs/bg2.png?raw=true"> <br>
+ <img align="center" alt="tech-backgrond" src="https://github.com/g-filipe/svg/blob/main/bgs/bg2.png?raw=true"> <br><br>
  
-<div style="display: flex">
-  <div style="width=100%">
-    <img src="https://github-readme-stats.vercel.app/api?username=g-filipe&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-filipe&layout=compact&langs_count=16&theme=react"/>
+<div>
+  <div>
+    <img  src="https://github-readme-stats.vercel.app/api?username=g-filipe&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+    <img width="355em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-filipe&layout=compact&langs_count=16&theme=react"/>
   </div>
 </div>
 
