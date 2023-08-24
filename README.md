@@ -1,16 +1,27 @@
-# Olá, Eu sou Filipe Galvão!
+# Hi, I'm Filipe Galvão! 
 
- Software Developer (Backend Java).
+## Professional Summary:
+Experienced in Back-End development with Java, Spring Boot, and Front-End with JavaScript, Vtex. Transitioned from the legal field with a strong background in Team
+Leadership, Resource Management, Time, Customer, and Process Management.
+Advanced skills in public speaking and communication.
+
+## Education:
+• Degree in Systems Analysis and Development - Centro Universitário Anhanguera Pitágoras Ampli (May/2023)</br>
+• Bachelor of Laws - Centro Universitário AESO Barros Melo – UNIAESO (Dec/2015)
+
+ ## Current Job
+  Software Developer (Backend Java) in Sensedia.
 
  <img align="center" alt="tech-backgrond" src="https://github.com/g-filipe/svg/blob/main/bgs/bg2.png?raw=true"> <br>
  
-<!--<div>
-  <a href="https://github.com/g-filipe">
-  <img width="428em" src="https://github-readme-stats.vercel.app/api?username=g-filipe&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img width="420em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-filipe&layout=compact&langs_count=16&theme=react"/>
-</div>-->
+<div style="display: flex">
+  <div style="width=100%">
+    <img src="https://github-readme-stats.vercel.app/api?username=g-filipe&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-filipe&layout=compact&langs_count=16&theme=react"/>
+  </div>
+</div>
 
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block">
 
   <h2>Stacks and Tools</h2>
 
@@ -63,7 +74,7 @@
  
  <h2>Contact Me</h2>
  
-  <a href="https://www.linkedin.com/in/filipe-galv%C3%A3o-29879a130/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/galvaofs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:galvao.s.filipe@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <img align="right" src="https://komarev.com/ghpvc/?username=your-github-g-filipe">
   
