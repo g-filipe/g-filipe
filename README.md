@@ -3,6 +3,8 @@
 ## Professional Summary:
 I am an experienced Back-End developer with expertise in Java, Spring Boot, Node.js, Express, MongoDB, Redis, Kafka, MySQL, and PostgreSQL. Additionally, I have experience in Front-End development using JavaScript and React.
 
+My work includes developing and maintaining APIs, ensuring they are efficient, secure, and scalable. Writing unit tests is also a key part of my process to guarantee code quality and reliability, facilitating smoother integration and deployment.
+
 Previously transitioning from the legal field, I bring a strong background in team leadership, resource management, time management, customer relations, and process optimization. I possess advanced skills in public speaking and effective communication, enabling me to collaborate successfully with diverse teams and stakeholders.
 
 ## Education:
