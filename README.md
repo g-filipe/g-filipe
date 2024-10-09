@@ -1,9 +1,9 @@
 <h1>Hi, I'm Filipe Galvão!</h1> 
 
 ## Professional Summary:
-Experienced in Back-End development with Java, Spring Boot, and Front-End with JavaScript, Vtex. Transitioned from the legal field with a strong background in Team
-Leadership, Resource Management, Time, Customer, and Process Management.
-Advanced skills in public speaking and communication.
+I am an experienced Back-End developer with expertise in Java, Spring Boot, Node.js, Express, MongoDB, Redis, Kafka, MySQL, and PostgreSQL. Additionally, I have experience in Front-End development using JavaScript and React.
+
+Previously transitioning from the legal field, I bring a strong background in team leadership, resource management, time management, customer relations, and process optimization. I possess advanced skills in public speaking and effective communication, enabling me to collaborate successfully with diverse teams and stakeholders.
 
 ## Education:
 • Degree in Systems Analysis and Development - Centro Universitário Anhanguera Pitágoras Ampli (May/2023)</br>
