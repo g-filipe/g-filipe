@@ -55,22 +55,6 @@ Previously transitioning from the legal field, I bring a strong background in te
    <img align="center" alt="springboot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/spring/spring-original.svg">
   
  </div><br>
-
-<!--Tools-->
- 
-<div>
-
- <img align="center" alt="vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg">
- 
-  <img align="center" alt="sublime" height="30" width="30" src="https://raw.githubusercontent.com/g-filipe/svg/b742f111b908acf5fe9339a53c7c2063a7b7a251/Sublime.svg?token=ATVJTMEYIYKL3O7QV62HEDTA3JJMG">
-
- <img align="center" alt="netbeans" height="40" width="40" src="https://raw.githubusercontent.com/g-filipe/svg/b742f111b908acf5fe9339a53c7c2063a7b7a251/NetBeans.svg?token=ATVJTMDWGWV5EXNSKIMEWY3A3JJIA">
- 
- <img align="center" alt="eclipse" height="30" width="30" src="https://raw.githubusercontent.com/g-filipe/svg/b742f111b908acf5fe9339a53c7c2063a7b7a251/Eclipse.svg?token=ATVJTMG3INOAZO373WM3CU3A3JJBQ">
- 
-   <img align="center" alt="intelij" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/intellij/intellij-original.svg">
-
- </div><br>
  
   <div> 
  
